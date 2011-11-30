@@ -1,0 +1,8 @@
+{
+	Filter = {
+		Bundles = (
+			"com.newtoyinc.WordsWithFriendsPaid",
+			"com.newtoyinc.WordsWithFriendsFree",
+		);
+	};
+}
