@@ -1,0 +1,9 @@
+Package: com.n00neimp0rtant.jenkemwithfriends
+Name: JenkemWithFriends
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: anything goes in WWF
+Maintainer: n00neimp0rtant
+Author: n00neimp0rtant
+Section: Tweaks
